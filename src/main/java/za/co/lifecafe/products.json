@@ -1,0 +1,35 @@
+[
+  {"Name": "Burger",
+    "Price":  10,
+    "cost": 5, "Category":  "Meal"
+  },
+  {"Name": "Salad",
+    "Price":  15,
+    "cost": 10,
+    "Category":  "Meal"
+  },
+  {"Name": "Coca Cola",
+    "Price":  15,
+    "cost": 5,
+    "Category":  "Cool Drink"
+  },
+  {
+    "Name": "Hotdog",
+    "Price":  8,
+    "cost": 6,
+    "Category":  "Meal"
+  },
+  {
+    "Name": "Lays",
+    "Price":  8,
+    "cost": 6,
+    "Category":  "Snack"
+  },
+  {
+    "Name": "Mocha",
+    "Price":  8,
+    "cost": 6,
+    "Category":  "Hot Drink"
+  }
+
+]
