@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="LifeCafePOS" />
+        <module name="Life_Cafe_POS" />
       </profile>
     </annotationProcessing>
   </component>
